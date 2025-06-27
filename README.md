@@ -39,10 +39,6 @@ Open index.html directly in your browser
 OR
 Use a Live Server extension
 
-# Preview
-
-(Add screenshot of the running app here if available)
-
 # Author
 Ian Muthiani
 
