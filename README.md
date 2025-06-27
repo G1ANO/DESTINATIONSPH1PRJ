@@ -31,13 +31,16 @@ npm install -g json-server
 
 json-server --watch db.json
 
-This will start the backend API at http://localhost:3000
-
 4. Run the App
 
-Open index.html directly in your browser
-OR
-Use a Live Server extension
+Open the html in browser
+
+# 
+- Frontend: HTML, CSS, JavaScript
+- Backend: `json-server` (hosted on Render)
+- Hosting: 
+  - Frontend → [Netlify] Auto-deployed from GitHub
+  - Backend → [Render] https://g1ano.github.io/DESTINATIONSPH1PRJ/
 
 # Author
 Ian Muthiani

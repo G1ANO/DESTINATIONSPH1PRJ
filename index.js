@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("darkModeToggle").addEventListener("click", toggleDarkMode);
 });
 
-const API = "http://localhost:3000";
+const API = "https://json-server-on-it.onrender.com";
 
 function setupNavigation() {
   document.querySelectorAll(".nav-btn").forEach(btn => {
