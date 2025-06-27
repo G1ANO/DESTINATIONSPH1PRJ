@@ -1,0 +1,51 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "title": "Paris, France",
+      "description": "Paris, the City of Light, is famous for its romantic charm, world-class art, and historic landmarks.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Paris_Night.jpg",
+      "userCreated": false
+    },
+    {
+      "id": "2",
+      "title": "Bali, Indonesia",
+      "description": "Bali is a tropical paradise known for its beaches, temples, rice terraces, and spiritual culture.",
+      "image": "https://www.pelago.com/img/destinations/bali/0619-0941_bali.jpg",
+      "userCreated": false
+    },
+    {
+      "id": "3",
+      "title": "Rome, Italy",
+      "description": "Rome blends ancient ruins and Renaissance art with vibrant street life and Italian cuisine.",
+      "image": "https://i.natgeofe.com/n/3012ffcc-7361-45f6-98b3-a36d4153f660/colosseum-daylight-rome-italy.jpg",
+      "userCreated": false
+    },
+    {
+      "id": "4",
+      "title": "Cape Town, South Africa",
+      "description": "Cape Town offers breathtaking scenery, coastal charm, historic landmarks, and outdoor adventures.",
+      "image": "https://www.andbeyond.com/wp-content/uploads/sites/5/cape-town-aerial-view-greenpoint-stadium.jpg",
+      "userCreated": false
+    },
+    {
+      "id": "d62a",
+      "title": "Nairobi",
+      "description": "Capital",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlKP8fO2u8mA56k-VWM8pfooaQuYVP59wKA&s",
+      "userCreated": true
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "4b7e",
+      "title": "Cape Town, South Africa"
+    }
+  ],
+  "likes": [
+    {
+      "id": "b0ad",
+      "title": "Nairobi"
+    }
+  ]
+}
